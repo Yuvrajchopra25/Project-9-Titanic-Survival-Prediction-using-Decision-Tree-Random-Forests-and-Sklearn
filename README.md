@@ -1,4 +1,4 @@
-# Project-9 Titanic Survival Prediction using Decision Tree, Random Forests and Sklearn
+# Titanic Survival Prediction using Decision Tree, Random Forests and Sklearn
 ## Introduction:
 The Titanic Survival Prediction project was fun to build as we will be predicting whether someone would have survived if they were in the titanic ship or not. For this beginner’s project, we will use the Titanic dataset that contains real data of the survivors and people who died in the Titanic ship.
 
